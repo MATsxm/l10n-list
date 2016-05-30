@@ -1,4 +1,7 @@
+<?php
 
+return [
+  
   'af'        =>  array( 'English' => 'Afrikaans',                  'native' => 'Afrikaans'),
   'ak'        =>  array( 'English' => 'Akan',                       'native' => 'Akan'), // unverified native name
   'ast'       =>  array( 'English' => 'Asturian',                   'native' => 'Asturianu'),
@@ -118,3 +121,5 @@
             'zh-TW'      => array( 'English' => 'Chinese (Traditional)',     'native' => '正體中文 (繁體)'),
             'zu'         => array( 'English' => 'Zulu',                      'native' => 'isiZulu')
         );
+
+];
