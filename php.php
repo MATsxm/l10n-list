@@ -32,6 +32,7 @@ return [
   'es'          => array( 'English' => 'Spanish',                   'native' => 'Español'),
   'es-AR'       => array( 'English' => 'Spanish (Argentina)',       'native' => 'Español (de Argentina)'),
   'es-CL'       => array( 'English' => 'Spanish (Chile)',           'native' => 'Español (de Chile)'),
+  'es-CO'       => array( 'English' => 'Spanish (Colombia)',        'native' => 'Español (de Colombia)'),
   'es-ES'       => array( 'English' => 'Spanish (Spain)',           'native' => 'Español (de España)'),
   'es-MX'       => array( 'English' => 'Spanish (Mexico)',          'native' => 'Español (de México)'),
   'et'          => array( 'English' => 'Estonian',                  'native' => 'Eesti keel'),
