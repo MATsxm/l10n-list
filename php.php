@@ -2,7 +2,7 @@
 
 return [
   
-  'af'          =>  array( 'English' => 'Afrikaans',                'native' => 'Afrikaans'),
+  'af-ZA'          =>  array( 'English' => 'Afrikaans (South Africa)',                'native' => 'Afrikaans (Suid-Afrika)'),
   'ak'          =>  array( 'English' => 'Akan',                     'native' => 'Akan'), // unverified native name
   'ast'         =>  array( 'English' => 'Asturian',                 'native' => 'Asturianu'),
   'ar'          => array( 'English' => 'Arabic',                    'native' => 'عربي'),
@@ -47,6 +47,7 @@ return [
   'ga-IE'       => array( 'English' => 'Irish (Ireland)',           'native' => 'Gaeilge (Éire)'),
   'gd'          => array( 'English' => 'Gaelic (Scotland)',         'native' => 'Gàidhlig'),
   'gl'          => array( 'English' => 'Galician',                  'native' => 'Galego'),
+  'gsw-FR'       => array( 'English' => 'Alsatian (France)',                  'native' => 'Elsässisch (Frànkrisch)'),
   'gu-IN'       => array( 'English' => 'Gujarati',                  'native' => 'ગુજરાતી'),
   'he'          => array( 'English' => 'Hebrew',                    'native' => 'עברית'),
   'hi'          => array( 'English' => 'Hindi',                     'native' => 'हिन्दी'),
@@ -96,7 +97,7 @@ return [
   'sk'          => array( 'English' => 'Slovak',                    'native' => 'slovenčina'),
   'sl'          => array( 'English' => 'Slovenian',                 'native' => 'slovensko'),
   'son'         => array( 'English' => 'Songhai',                   'native' => 'Soŋay'),
-  'sq'          => array( 'English' => 'Albanian',                  'native' => 'Shqip'),
+  'sq-AL'          => array( 'English' => 'Albanian (Albania)',                  'native' => 'Shqip (Shqipëria)'),
   'sr'          => array( 'English' => 'Serbian',                   'native' => 'Српски'),
   'sr-Latn'     => array( 'English' => 'Serbian',                   'native' => 'Srpski'), // follows RFC 4646
   'ss'          => array( 'English' => 'Siswati',                   'native' => 'siSwati'),
