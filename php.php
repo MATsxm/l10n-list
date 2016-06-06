@@ -2,10 +2,11 @@
 
 return [
   
-  'af-ZA'          =>  array( 'English' => 'Afrikaans (South Africa)',                'native' => 'Afrikaans (Suid-Afrika)'),
-  'ak'          =>  array( 'English' => 'Akan',                     'native' => 'Akan'), // unverified native name
+  'af-ZA'         =>  array( 'English' => 'Afrikaans (South Africa)',           'native' => 'Afrikaans (Suid-Afrika)'),
+  'am-ET'         =>  array( 'English' => 'Amharic (Ethiopia)',                 'native' => 'አማርኛ (ኢትዮጵያ)'),
   'ast'         =>  array( 'English' => 'Asturian',                 'native' => 'Asturianu'),
-  'ar'          => array( 'English' => 'Arabic',                    'native' => 'عربي'),
+  'ar'            => array( 'English' => 'Arabic',                              'native' => 'عربي'),
+  'ar-DZ'         => array( 'English' => 'Arabic (Algeria)',                    'native' => 'العربية (الجزائر)'),
   'as'          => array( 'English' => 'Assamese',                  'native' => 'অসমীয়া'),
   'be'          => array( 'English' => 'Belarusian',                'native' => 'Беларуская'),
   'bg'          => array( 'English' => 'Bulgarian',                 'native' => 'Български'),
