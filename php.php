@@ -14,6 +14,8 @@ return [
   'ar-DZ'         =>  array( 'English'  => 'Arabic (Algeria)',                  'native' => 'العربية (الجزائر)'),
   'ar-BH'         =>  array( 'English'  => 'Arabic (Bahrain)',                  'native' => 'لعربية (البحرين)'),
   'ar-EG'         =>  array( 'English'  => 'Arabic (Egypt)',                    'native' => 'العربية (مصر)'),
+  'ar-IQ'         =>  array( 'English'  => 'Arabic (Iraq)',                     'native' => 'لعربية (العراق)'),
+  'ar-JO'         =>  array( 'English'  => 'Arabic (Jordan)',                   'native' => 'لعربية (الأردن)'),
   'as'          => array( 'English' => 'Assamese',                  'native' => 'অসমীয়া'),
   'be'          => array( 'English' => 'Belarusian',                'native' => 'Беларуская'),
   'bg'          => array( 'English' => 'Bulgarian',                 'native' => 'Български'),
