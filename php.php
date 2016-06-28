@@ -28,7 +28,12 @@ return [
   'ar-AE'         =>  array( 'English'  => 'Arabic (U.A.E.)',                   'native' => 'العربية (الإمارات العربية المتحدة)'),
   'ar-YE'         =>  array( 'English'  => 'Arabic (Yemen)',                    'native' => 'العربية (اليمن)'),
   'hy-AM'         =>  array( 'English'  => 'Armenian (Armenia)',                'native' => 'Հայերեն (Հայաստան)'),
-    'as'          => array( 'English' => 'Assamese',                  'native' => 'অসমীয়া'),
+  'as'            => array( 'English' => 'Assamese (India)',                    'native' => 'অসমীয়া'),
+  'az-Cyrl-AZ'    => array( 'English' => 'Azerbaijani (Cyrillic, Azerbaijan)',  'native' => 'Азәрбајҹан (Азәрбајҹан)'),
+  'az-Latn-AZ'    => array( 'English' => 'Azerbaijani (Latin, Azerbaijan)',     'native' => 'Azərbaycan dili (Azərbaycan)'),
+  
+  
+  
   'be'          => array( 'English' => 'Belarusian',                'native' => 'Беларуская'),
   'bg'          => array( 'English' => 'Bulgarian',                 'native' => 'Български'),
   'bn-BD'       => array( 'English' => 'Bengali (Bangladesh)',      'native' => 'বাংলা (বাংলাদেশ)'),
