@@ -28,10 +28,13 @@ return [
   'ar-AE'         =>  array( 'English'  => 'Arabic (U.A.E.)',                     'native' => 'العربية (الإمارات العربية المتحدة)'),
   'ar-YE'         =>  array( 'English'  => 'Arabic (Yemen)',                      'native' => 'العربية (اليمن)'),
   'hy-AM'         =>  array( 'English'  => 'Armenian (Armenia)',                  'native' => 'Հայերեն (Հայաստան)'),
-  'as'            => array( 'English'   => 'Assamese (India)',                    'native' => 'অসমীয়া'),
-  'az-Cyrl-AZ'    => array( 'English'   => 'Azerbaijani (Cyrillic, Azerbaijan)',  'native' => 'Азәрбајҹан (Азәрбајҹан)'),
-  'az-Latn-AZ'    => array( 'English'   => 'Azerbaijani (Latin, Azerbaijan)',     'native' => 'Azərbaycan dili (Azərbaycan)'),
-  
+  'as'            =>  array( 'English'   => 'Assamese (India)',                   'native' => 'অসমীয়া'),
+  'az-Cyrl-AZ'    =>  array( 'English'   => 'Azerbaijani (Cyrillic, Azerbaijan)', 'native' => 'Азәрбајҹан (Азәрбајҹан)'),
+  'az-Latn-AZ'    =>  array( 'English'   => 'Azerbaijani (Latin, Azerbaijan)',    'native' => 'Azərbaycan dili (Azərbaycan)'),
+  'bn-BD'         =>  array( 'English'  => 'Bangla (Bangladesh)',                 'native' => 'বাংলা (বাংলাদেশ)'),
+  'bn-IN'         =>  array( 'English'  => 'Bangla (India)',                      'native' => 'বাংলা (ভারত)'),
+  'ba-RU'         =>  array( 'English'  => 'Bashkir (Russia)',                    'native' => 'Башҡорт (Рәсәй)'),
+  'eu-ES'         =>  array( 'English'  => 'Basque (Basque)',                     'native' => 'euskara (euskara)'),
   
   
   'be'          => array( 'English' => 'Belarusian',                'native' => 'Беларуская'),
