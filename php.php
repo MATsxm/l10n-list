@@ -41,10 +41,8 @@ return [
   'br-FR'         =>  array( 'English'  => 'Breton (France)',                                   'native' => 'brezhoneg (Frañs)'),
   'bg-BG'         =>  array( 'English'  => 'Bulgarian (Bulgaria)',                              'native' => 'български (България)'),
   'my-MM'         =>  array( 'English'  => 'Burmese (Myanmar)',                                 'native' => 'ဗမာ (မြန်မာ)'),
+  'ca-ES'         =>  array( 'English'  => 'Catalan (Catalan)',                                 'native' => 'Català (Català)'),
   
-  
-
-  'ca'          => array( 'English' => 'Catalan',                   'native' => 'català'),
   'cs'          => array( 'English' => 'Czech',                     'native' => 'Čeština'),
   'cy'          => array( 'English' => 'Welsh',                     'native' => 'Cymraeg'),
   'da'          => array( 'English' => 'Danish',                    'native' => 'Dansk'),
