@@ -42,7 +42,12 @@ return [
   'bg-BG'         =>  array( 'English'  => 'Bulgarian (Bulgaria)',                              'native' => 'български (България)'),
   'my-MM'         =>  array( 'English'  => 'Burmese (Myanmar)',                                 'native' => 'ဗမာ (မြန်မာ)'),
   'ca-ES'         =>  array( 'English'  => 'Catalan (Catalan)',                                 'native' => 'Català (Català)'),
-  
+  'tzm-Latn-DZ'   =>  array( 'English'  => 'Central Atlas Tamazight (Latin, Algeria)',          'native' => 'Tamazight (Djazaïr)'),
+  'tzm-Tfng-MA'   =>  array( 'English'  => 'Central Atlas Tamazight (Tifinagh, Morocco)',       'native' => 'ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)'),
+  'ku-Arab-IQ'    =>  array( 'English'  => 'Central Kurdish (Iraq)',                            'native' => 'وردیی ناوەڕاست (کوردستان)'),
+
+
+
   'cs'          => array( 'English' => 'Czech',                     'native' => 'Čeština'),
   'cy'          => array( 'English' => 'Welsh',                     'native' => 'Cymraeg'),
   'da'          => array( 'English' => 'Danish',                    'native' => 'Dansk'),
