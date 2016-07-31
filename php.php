@@ -45,7 +45,7 @@ return [
   'tzm-Latn-DZ'   =>  array( 'English'  => 'Central Atlas Tamazight (Latin, Algeria)',          'native' => 'Tamazight (Djazaïr)'),
   'tzm-Tfng-MA'   =>  array( 'English'  => 'Central Atlas Tamazight (Tifinagh, Morocco)',       'native' => 'ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)'),
   'ku-Arab-IQ'    =>  array( 'English'  => 'Central Kurdish (Iraq)',                            'native' => 'وردیی ناوەڕاست (کوردستان)'),
-
+  'chr-Cher-US'   =>  array( 'English'  => 'Cherokee (Cherokee)',                               'native' => 'ᏣᎳᎩ (ᏣᎳᎩ)),
 
 
   'cs'          => array( 'English' => 'Czech',                     'native' => 'Čeština'),
