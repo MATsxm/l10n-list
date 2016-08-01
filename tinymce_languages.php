@@ -27,7 +27,6 @@
       {"code":"hr","name":"Croatian","nativeName":"Hrvatski","dir":"ltr"},
       {"code":"cs","name":"Czech","nativeName":"Čeština","dir":"ltr"},
       {"code":"da","name":"Danish","nativeName":"dansk","dir":"ltr"},
-      {"code":"fa","name":"Persian","nativeName":"فارسی","dir":"rtl"},
       {"code":"nl","name":"Dutch","nativeName":"Nederlands","dir":"ltr"},
       {"code":"en-AU","name":"English (Australian)","nativeName":"English (Australian)","dir":"ltr"},
       {"code":"en-CA","name":"English (Canadian)","nativeName":"English (Canadian)","dir":"ltr"},
@@ -55,47 +54,30 @@
       {"code":"ko","name":"Korean","nativeName":"한국어","dir":"ltr"},
       {"code":"lv","name":"Latvian","nativeName":"Latviešu","dir":"ltr"},
       {"code":"lt","name":"Lithuanian","nativeName":"lietuvių kalba","dir":"ltr"},
-
-    
-      {"code":"mk","name":"Macedonian","nativeName":"македонски јазик","dir":"ltr"},
+      {"code":"mk","name":"Macedonian","nativeName":"Македонски","dir":"ltr"},
       {"code":"ms","name":"Malay","nativeName":"bahasa Melayu, بهاس ملايو‎","dir":"ltr"},
-      
-     //Montenegrin
-      
-      {"code":"nb","name":"Norwegian Bokmål","nativeName":"Norsk bokmål","dir":"ltr"},
-      {"code":"nn","name":"Norwegian Nynorsk","nativeName":"Norsk nynorsk","dir":"ltr"},
-    
-    //Occitan***
-    
-      {"code":"fa","name":"Persian","nativeName":"فارسی","dir":"ltr"},
+    //Montenegrin
+      {"code":"nb-NO","name":"Norwegian Bokmål","nativeName":"Norsk bokmål","dir":"ltr"},
+      {"code":"nn-NO","name":"Norwegian Nynorsk","nativeName":"Norsk nynorsk","dir":"ltr"},
+      {"code":"oc","name":"Occitan","nativeName":"Occitan lengadocian","dir":"ltr"},
+      {"code":"fa","name":"Persian","nativeName":"فارسی","dir":"rtl"},
       {"code":"pl","name":"Polish","nativeName":"polski","dir":"ltr"},
-
-     //portuguese brazil
-    
       {"code":"pt","name":"Portuguese","nativeName":"Português","dir":"ltr"},
-      {"code":"ro","name":"Romanian, Moldavian, Moldovan","nativeName":"română","dir":"ltr"},
-      {"code":"ru","name":"Russian","nativeName":"русский язык","dir":"ltr"},
-     
-    //serbian cyrillic
-    //serbian latin
-      {"code":"sr","name":"Serbian","nativeName":"српски језик","dir":"ltr"},
-    
-      {"code":"si","name":"Sinhala, Sinhalese","nativeName":"සිංහල","dir":"ltr"},
+      {"code":"pt-BR","name":"Portuguese (Brazilian)","nativeName":"Português do Brasil","dir":"ltr"},
+      {"code":"ro","name":"Romanian","nativeName":"română","dir":"ltr"},
+      {"code":"ru","name":"Russian","nativeName":"Русский","dir":"ltr"},
+      {"code":"sr","name":"Serbian","nativeName":"српски","dir":"ltr"},
+      {"code":"sr-Latn","name":"Serbian","nativeName":"Srpski","dir":"ltr"},
+      {"code":"si","name":"Sinhala","nativeName":"සිංහල","dir":"ltr"},
       {"code":"sk","name":"Slovak","nativeName":"slovenčina","dir":"ltr"},
-      {"code":"sl","name":"Slovene","nativeName":"slovenščina","dir":"ltr"},
-      {"code":"es","name":"Spanish; Castilian","nativeName":"español, castellano","dir":"ltr"},
-     
-    //Spanish Colombia
-    
+      {"code":"sl","name":"Slovenian","nativeName":"slovensko","dir":"ltr"},
+      {"code":"es","name":"Spanish","nativeName":"Español","dir":"ltr"},
+      {"code":"es-CO","name":"Spanish (Colombia)","nativeName":"Español de Colombia","dir":"ltr"},
       {"code":"sw","name":"Swahili","nativeName":"Kiswahili","dir":"ltr"},
-      {"code":"sv","name":"Swedish","nativeName":"svenska","dir":"ltr"},
-    
-    //Syriac
-    
+      {"code":"sv-SE","name":"Swedish","nativeName":"svenska","dir":"ltr"},
       {"code":"ta","name":"Tamil","nativeName":"தமிழ்","dir":"ltr"},
       {"code":"th","name":"Thai","nativeName":"ไทย","dir":"ltr"},     
       {"code":"tr","name":"Turkish","nativeName":"Türkçe","dir":"ltr"},
-     
     //Turkmen
     
       {"code":"uk","name":"Ukrainian","nativeName":"українська","dir":"ltr"},
