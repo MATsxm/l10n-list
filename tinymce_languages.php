@@ -7,12 +7,13 @@
  * This first list will include the "official" languages for Joomla! Languages Packs + few others.
  * ISO 639-1 used when possible and country code when needed.
  * Names are those of languages without country names (could be added).
+ * English alphabetical name order. Some language names are not capitalized as in french it is 'français' and NOT 'Français' 
  */
 
 [
       {"code":"af-ZA","name":"Afrikaans","nativeName":"Afrikaans","dir":"ltr"},
       {"code":"sq-AL","name":"Albanian","nativeName":"Shqip","dir":"ltr"},
-      {"code":"ar","name":"Arabic","nativeName":"العربية","dir":"rtl"},
+      {"code":"ar","name":"Arabic","nativeName":"عربي","dir":"rtl"},
       {"code":"hy-AM","name":"Armenian","nativeName":"Հայերեն","dir":"ltr"},
       {"code":"eu-ES","name":"Basque","nativeName":"euskara","dir":"ltr"},
       {"code":"be-BY","name":"Belarusian","nativeName":"Беларуская","dir":"ltr"},
@@ -23,39 +24,24 @@
       {"code":"ku-IQ","name":"Kurdish","nativeName":"ردیی ناوەڕاست (کوردستان)","dir":"rtl"},
       {"code":"zh-CN","name":"Chinese (Simplified)","nativeName":"中文 (简体)","dir":"ltr"},
       {"code":"zh-TW","name":"Chinese (Traditional)","nativeName":"正體中文 (繁體)","dir":"ltr"},
-
-
-      {"code":"hr","name":"Croatian","nativeName":"hrvatski","dir":"ltr"},
-      {"code":"cs","name":"Czech","nativeName":"česky, čeština","dir":"ltr"},
+      {"code":"hr","name":"Croatian","nativeName":"Hrvatski","dir":"ltr"},
+      {"code":"cs","name":"Czech","nativeName":"Čeština","dir":"ltr"},
       {"code":"da","name":"Danish","nativeName":"dansk","dir":"ltr"},
-    
-    //dari persian
-
-      {"code":"nl","name":"Dutch","nativeName":"Nederlands, Vlaams","dir":"ltr"},
-    //Dutch Belgium***
-    
-    //dzongkha
-    
-    //english australia
-    //english canada
-    //english usa
-      {"code":"en","name":"English","nativeName":"English","dir":"ltr"},
-    
-    //esperanto***
-    
-      {"code":"et","name":"Estonian","nativeName":"eesti, eesti keel","dir":"ltr"},
-      {"code":"fi","name":"Finnish","nativeName":"suomi, suomen kieli","dir":"ltr"},
-    
+      {"code":"fa","name":"Persian","nativeName":"فارسی","dir":"rtl"},
+      {"code":"nl","name":"Dutch","nativeName":"Nederlands","dir":"ltr"},
+      {"code":"en-AU","name":"English (Australian)","nativeName":"English (Australian)","dir":"ltr"},
+      {"code":"en-CA","name":"English (Canadian)","nativeName":"English (Canadian)","dir":"ltr"},
+      {"code":"en-GB","name":"English (British)","nativeName":"English (British)","dir":"ltr"},
+      {"code":"en-US","name":"English (American)","nativeName":"English (American)","dir":"ltr"},
+      {"code":"eo","name":"Esperanto","nativeName":"Esperanto","dir":"ltr"},
+      {"code":"et","name":"Estonian","nativeName":"Eesti keel","dir":"ltr"},
+      {"code":"fi","name":"Finnish","nativeName":"suomi","dir":"ltr"},
     //flemish
-    
-      {"code":"fr","name":"French","nativeName":"français, langue française","dir":"ltr"},
-    
-    //french canada
-    
+      {"code":"fr","name":"French","nativeName":"français","dir":"ltr"},
+      {"code":"fr-CA","name":"French (Canadian)","nativeName":"français (canadien)","dir":"ltr"},
       {"code":"gl","name":"Galician","nativeName":"Galego","dir":"ltr"},
-    
-    // georgian***
-    
+      {"code":"ka","name":"Georgian","nativeName":"ქართული","dir":"ltr"},
+
       {"code":"de","name":"German","nativeName":"Deutsch","dir":"ltr"},
       {"code":"el","name":"Greek, Modern","nativeName":"Ελληνικά","dir":"ltr"},
       {"code":"he","name":"Hebrew (modern)","nativeName":"עברית","dir":"rtl"},
