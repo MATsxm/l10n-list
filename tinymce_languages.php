@@ -47,7 +47,6 @@
       {"code":"hi","name":"Hindi","nativeName":"हिन्दीिंदी","dir":"ltr"},
       {"code":"hu","name":"Hungarian","nativeName":"Magyar","dir":"ltr"},
       {"code":"is","name":"Icelandic","nativeName":"íslenska","dir":"ltr"},
-    
       {"code":"id","name":"Indonesian","nativeName":"Bahasa Indonesia","dir":"ltr"},
       {"code":"ga","name":"Irish","nativeName":"Gaeilge","dir":"ltr"},
       {"code":"it","name":"Italian","nativeName":"Italiano","dir":"ltr"},
@@ -55,9 +54,8 @@
       {"code":"km","name":"Khmer","nativeName":"ភាសាខ្មែរ","dir":"ltr"},
       {"code":"ko","name":"Korean","nativeName":"한국어","dir":"ltr"},
       {"code":"lv","name":"Latvian","nativeName":"Latviešu","dir":"ltr"},
-      {"code":"lt","name":"Lithuanian","nativeName":"Latviešu","dir":"ltr"},
-    
-    //Lithuanian*** 
+      {"code":"lt","name":"Lithuanian","nativeName":"lietuvių kalba","dir":"ltr"},
+
     
       {"code":"mk","name":"Macedonian","nativeName":"македонски јазик","dir":"ltr"},
       {"code":"ms","name":"Malay","nativeName":"bahasa Melayu, بهاس ملايو‎","dir":"ltr"},
