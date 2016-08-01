@@ -41,22 +41,21 @@
       {"code":"fr-CA","name":"French (Canadian)","nativeName":"français (canadien)","dir":"ltr"},
       {"code":"gl","name":"Galician","nativeName":"Galego","dir":"ltr"},
       {"code":"ka","name":"Georgian","nativeName":"ქართული","dir":"ltr"},
-
       {"code":"de","name":"German","nativeName":"Deutsch","dir":"ltr"},
       {"code":"el","name":"Greek, Modern","nativeName":"Ελληνικά","dir":"ltr"},
       {"code":"he","name":"Hebrew (modern)","nativeName":"עברית","dir":"rtl"},
-      {"code":"hi","name":"Hindi","nativeName":"हिन्दी, हिंदी","dir":"ltr"},
+      {"code":"hi","name":"Hindi","nativeName":"हिन्दीिंदी","dir":"ltr"},
       {"code":"hu","name":"Hungarian","nativeName":"Magyar","dir":"ltr"},
-    
-    //Icelandic***
+      {"code":"is","name":"Icelandic","nativeName":"íslenska","dir":"ltr"},
     
       {"code":"id","name":"Indonesian","nativeName":"Bahasa Indonesia","dir":"ltr"},
       {"code":"ga","name":"Irish","nativeName":"Gaeilge","dir":"ltr"},
       {"code":"it","name":"Italian","nativeName":"Italiano","dir":"ltr"},
-      {"code":"ja","name":"Japanese","nativeName":"日本語 (にほんご／にっぽんご)","dir":"ltr"},
+      {"code":"ja","name":"Japanese","nativeName":"日本語","dir":"ltr"},
       {"code":"km","name":"Khmer","nativeName":"ភាសាខ្មែរ","dir":"ltr"},
-      {"code":"ko","name":"Korean","nativeName":"한국어 (韓國語), 조선말 (朝鮮語)","dir":"ltr"},
-      {"code":"lv","name":"Latvian","nativeName":"latviešu valoda","dir":"ltr"},
+      {"code":"ko","name":"Korean","nativeName":"한국어","dir":"ltr"},
+      {"code":"lv","name":"Latvian","nativeName":"Latviešu","dir":"ltr"},
+      {"code":"lt","name":"Lithuanian","nativeName":"Latviešu","dir":"ltr"},
     
     //Lithuanian*** 
     
