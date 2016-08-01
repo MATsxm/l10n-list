@@ -1,5 +1,5 @@
 {
-      //.json file to use with the TinyMCE inline multi-language tags.
+      /*.json file to use with the TinyMCE inline multi-language tags.*/
       //See: github.com/joomla/joomla-cms/pull/11367
       //Based on: gist.github.com/dgt41/c18160606be9ca963b54c5b91ecc9e9f
 
@@ -19,13 +19,10 @@
       {"code":"bs-Latn-BA","name":"Bosnian (Latin)","nativeName":"bosanski","dir":"ltr"},
       {"code":"bg","name":"Bulgarian","nativeName":"български","dir":"ltr"},
       {"code":"ca-ES","name":"Catalan","nativeName":"Català","dir":"ltr"},
-     
-    //central kurdish
-    
-    //chinese simplified
-    //chinese traditional
-      {"code":"zh","name":"Chinese","nativeName":"中文 (Zhōngwén), 汉语, 漢語","dir":"ltr"},
-    
+      {"code":"ku-IQ","name":"Kurdish","nativeName":"ردیی ناوەڕاست (کوردستان)","dir":"rtl"},
+      {"code":"zh-CN","name":"Chinese (Simplified)","nativeName":"中文 (简体)","dir":"ltr"},
+      {"code":"zh-TW","name":"Chinese (Traditional)","nativeName":"正體中文 (繁體)","dir":"ltr"},
+
       {"code":"hr","name":"Croatian","nativeName":"hrvatski","dir":"ltr"},
       {"code":"cs","name":"Czech","nativeName":"česky, čeština","dir":"ltr"},
       {"code":"da","name":"Danish","nativeName":"dansk","dir":"ltr"},
