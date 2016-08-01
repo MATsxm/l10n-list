@@ -1,24 +1,24 @@
-//.json file to use with the TinyMCE inline multi-language tags
-//See: https://github.com/joomla/joomla-cms/pull/11367
-//Based on: https://gist.github.com/dgt41/c18160606be9ca963b54c5b91ecc9e9f
+{
+      //.json file to use with the TinyMCE inline multi-language tags.
+      //See: github.com/joomla/joomla-cms/pull/11367
+      //Based on: gist.github.com/dgt41/c18160606be9ca963b54c5b91ecc9e9f
 
-//This first list will include the 'official' languages for Joomla! Languages Packs + few others
-
+      //This first list will include the "official" languages for Joomla! Languages Packs + few others.
+      //ISO 639-1 used when possible and country code when needed.
+      //Names are those of languages without country names (could be added).
+}
 
 [
-      
-      {"code":"af","name":"Afrikaans","nativeName":"Afrikaans","dir":"ltr"},
-      {"code":"sq","name":"Albanian","nativeName":"Shqip","dir":"ltr"},
+      {"code":"af-ZA","name":"Afrikaans","nativeName":"Afrikaans","dir":"ltr"},
+      {"code":"sq-AL","name":"Albanian","nativeName":"Shqip","dir":"ltr"},
       {"code":"ar","name":"Arabic","nativeName":"العربية","dir":"rtl"},
-      {"code":"hy","name":"Armenian","nativeName":"Հայերեն","dir":"ltr"},
-      {"code":"eu","name":"Basque","nativeName":"euskara, euskera","dir":"ltr"},
-      {"code":"be","name":"Belarusian","nativeName":"Беларуская","dir":"ltr"},
-    
-    //Bengali***
-    
-      {"code":"bs","name":"Bosnian","nativeName":"bosanski jezik","dir":"ltr"},
-      {"code":"bg","name":"Bulgarian","nativeName":"български език","dir":"ltr"},
-      {"code":"ca","name":"Catalan; Valencian","nativeName":"Català","dir":"ltr"},
+      {"code":"hy-AM","name":"Armenian","nativeName":"Հայերեն","dir":"ltr"},
+      {"code":"eu-ES","name":"Basque","nativeName":"euskara","dir":"ltr"},
+      {"code":"be-BY","name":"Belarusian","nativeName":"Беларуская","dir":"ltr"},
+      {"code":"bn-BD","name":"Bengali (Bangladesh)","nativeName":"বাংলা","dir":"ltr"},
+      {"code":"bs-Latn-BA","name":"Bosnian (Latin)","nativeName":"bosanski","dir":"ltr"},
+      {"code":"bg","name":"Bulgarian","nativeName":"български","dir":"ltr"},
+      {"code":"ca-ES","name":"Catalan","nativeName":"Català","dir":"ltr"},
      
     //central kurdish
     
