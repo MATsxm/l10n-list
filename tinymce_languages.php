@@ -1,12 +1,13 @@
-{
-      /*.json file to use with the TinyMCE inline multi-language tags.*/
-      //See: github.com/joomla/joomla-cms/pull/11367
-      //Based on: gist.github.com/dgt41/c18160606be9ca963b54c5b91ecc9e9f
-
-      //This first list will include the "official" languages for Joomla! Languages Packs + few others.
-      //ISO 639-1 used when possible and country code when needed.
-      //Names are those of languages without country names (could be added).
-}
+<?php
+/**
+ * .json file (must be converted) to use with the TinyMCE inline multi-language tags.
+ * See: github.com/joomla/joomla-cms/pull/11367
+ * Based on: gist.github.com/dgt41/c18160606be9ca963b54c5b91ecc9e9f
+ * 
+ * This first list will include the "official" languages for Joomla! Languages Packs + few others.
+ * ISO 639-1 used when possible and country code when needed.
+ * Names are those of languages without country names (could be added).
+ */
 
 [
       {"code":"af-ZA","name":"Afrikaans","nativeName":"Afrikaans","dir":"ltr"},
