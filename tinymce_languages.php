@@ -23,6 +23,7 @@
       {"code":"zh-CN","name":"Chinese (Simplified)","nativeName":"中文 (简体)","dir":"ltr"},
       {"code":"zh-TW","name":"Chinese (Traditional)","nativeName":"正體中文 (繁體)","dir":"ltr"},
 
+
       {"code":"hr","name":"Croatian","nativeName":"hrvatski","dir":"ltr"},
       {"code":"cs","name":"Czech","nativeName":"česky, čeština","dir":"ltr"},
       {"code":"da","name":"Danish","nativeName":"dansk","dir":"ltr"},
