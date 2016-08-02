@@ -35,7 +35,7 @@
       {"code":"eo","name":"Esperanto","nativeName":"Esperanto","dir":"ltr"}, // Crowdin 95%
       {"code":"et","name":"Estonian","nativeName":"Eesti keel","dir":"ltr"}, //360 Crowdin 96%
       {"code":"fi","name":"Finnish","nativeName":"suomi","dir":"ltr"}, //351
-    //flemish
+
       {"code":"fr","name":"French","nativeName":"français","dir":"ltr"},
       {"code":"fr-CA","name":"French (Canadian)","nativeName":"français (canadien)","dir":"ltr"},
       {"code":"gl","name":"Galician","nativeName":"Galego","dir":"ltr"},
