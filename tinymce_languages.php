@@ -23,17 +23,18 @@
       {"code":"ca-ES","name":"Catalan","nativeName":"Català","dir":"ltr"}, //360 + Crowdin 99%
       {"code":"zh-CN","name":"Chinese (Simplified)","nativeName":"中文 (简体)","dir":"ltr"}, //341
       {"code":"zh-TW","name":"Chinese (Traditional)","nativeName":"正體中文 (繁體)","dir":"ltr"}, //360 + Crowdin 99%
-      {"code":"hr","name":"Croatian","nativeName":"Hrvatski","dir":"ltr"}, //Crowdin 100%
+      {"code":"hr","name":"Croatian","nativeName":"Hrvatski","dir":"ltr"}, //341 + Crowdin 100%
       {"code":"cs","name":"Czech","nativeName":"Čeština","dir":"ltr"}, //360
-      {"code":"da","name":"Danish","nativeName":"dansk","dir":"ltr"}, //Crowdin 100%
-      {"code":"nl","name":"Dutch","nativeName":"Nederlands","dir":"ltr"}, //Crowdin 100%
-      {"code":"en-AU","name":"English (Australian)","nativeName":"English (Australian)","dir":"ltr"},
-      {"code":"en-CA","name":"English (Canadian)","nativeName":"English (Canadian)","dir":"ltr"},
+      {"code":"da","name":"Danish","nativeName":"dansk","dir":"ltr"}, //360 + Crowdin 100%
+      {"code":"nl","name":"Dutch","nativeName":"Nederlands","dir":"ltr"}, //360 + Crowdin 100%
+      {"code":"nl-BE","name":"Dutch (Belgium)","nativeName":"Flemish","dir":"ltr"}, //360 + Crowdin 99%
+      {"code":"en-AU","name":"English (Australian)","nativeName":"English (Australian)","dir":"ltr"}, //360
+      {"code":"en-CA","name":"English (Canadian)","nativeName":"English (Canadian)","dir":"ltr"}, //336
       {"code":"en-GB","name":"English (British)","nativeName":"English (British)","dir":"ltr"},
-      {"code":"en-US","name":"English (American)","nativeName":"English (American)","dir":"ltr"}, //Crowdin 100%
-      {"code":"eo","name":"Esperanto","nativeName":"Esperanto","dir":"ltr"},
-      {"code":"et","name":"Estonian","nativeName":"Eesti keel","dir":"ltr"},
-      {"code":"fi","name":"Finnish","nativeName":"suomi","dir":"ltr"},
+      {"code":"en-US","name":"English (American)","nativeName":"English (American)","dir":"ltr"}, //360 Crowdin 100%
+      {"code":"eo","name":"Esperanto","nativeName":"Esperanto","dir":"ltr"}, // Crowdin 95%
+      {"code":"et","name":"Estonian","nativeName":"Eesti keel","dir":"ltr"}, //360 Crowdin 96%
+      {"code":"fi","name":"Finnish","nativeName":"suomi","dir":"ltr"}, //351
     //flemish
       {"code":"fr","name":"French","nativeName":"français","dir":"ltr"},
       {"code":"fr-CA","name":"French (Canadian)","nativeName":"français (canadien)","dir":"ltr"},
