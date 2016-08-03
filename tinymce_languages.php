@@ -35,24 +35,22 @@
       {"code":"eo","name":"Esperanto","nativeName":"Esperanto","dir":"ltr"}, // Crowdin 95%
       {"code":"et","name":"Estonian","nativeName":"Eesti keel","dir":"ltr"}, //360 Crowdin 96%
       {"code":"fi","name":"Finnish","nativeName":"suomi","dir":"ltr"}, //351
-
-      {"code":"fr","name":"French","nativeName":"français","dir":"ltr"},
-      {"code":"fr-CA","name":"French (Canadian)","nativeName":"français (canadien)","dir":"ltr"},
-      {"code":"gl","name":"Galician","nativeName":"Galego","dir":"ltr"},
-      {"code":"ka","name":"Georgian","nativeName":"ქართული","dir":"ltr"},
-      {"code":"de","name":"German","nativeName":"Deutsch","dir":"ltr"},
-      {"code":"el","name":"Greek, Modern","nativeName":"Ελληνικά","dir":"ltr"},
-      {"code":"he","name":"Hebrew (modern)","nativeName":"עברית","dir":"rtl"},
-      {"code":"hi","name":"Hindi","nativeName":"हिन्दीिंदी","dir":"ltr"},
-      {"code":"hu","name":"Hungarian","nativeName":"Magyar","dir":"ltr"}, //Crowdin 100%
-      {"code":"is","name":"Icelandic","nativeName":"íslenska","dir":"ltr"},
-      {"code":"id","name":"Indonesian","nativeName":"Bahasa Indonesia","dir":"ltr"}, //Crowdin 100%
-      {"code":"ga","name":"Irish","nativeName":"Gaeilge","dir":"ltr"},
-      {"code":"it","name":"Italian","nativeName":"Italiano","dir":"ltr"},
-      {"code":"ja","name":"Japanese","nativeName":"日本語","dir":"ltr"},
-      {"code":"km","name":"Khmer","nativeName":"ភាសាខ្មែរ","dir":"ltr"},
-      {"code":"ko","name":"Korean","nativeName":"한국어","dir":"ltr"},
-      {"code":"ku-IQ","name":"Kurdish","nativeName":"ردیی ناوەڕاست (کوردستان)","dir":"rtl"},
+      {"code":"fr","name":"French","nativeName":"français","dir":"ltr"}, //360
+      {"code":"fr-CA","name":"French (Canadian)","nativeName":"français (canadien)","dir":"ltr"}, //351 Crowdin 100%
+      {"code":"gl-ES","name":"Galician","nativeName":"Galego","dir":"ltr"}, //331 Crowdin 70%
+      {"code":"ka","name":"Georgian","nativeName":"ქართული","dir":"ltr"}, //Crowdin 70%
+      {"code":"de","name":"German","nativeName":"Deutsch","dir":"ltr"}, //360 Crowdin 99%
+      {"code":"el","name":"Greek, Modern","nativeName":"Ελληνικά","dir":"ltr"}, //342
+      {"code":"he","name":"Hebrew (modern)","nativeName":"עברית","dir":"rtl"}, //311 Crowdin 92ù
+      {"code":"hi-IN","name":"Hindi","nativeName":"हिन्दीिंदी","dir":"ltr"}, //336 Crowdin 30%
+      {"code":"hu","name":"Hungarian","nativeName":"Magyar","dir":"ltr"}, //360 Crowdin 100%
+      {"code":"is","name":"Icelandic","nativeName":"íslenska","dir":"ltr"}, //Crowdin 23%
+      {"code":"id","name":"Indonesian","nativeName":"Bahasa Indonesia","dir":"ltr"}, //330 Crowdin 100%
+      {"code":"ga-IE","name":"Irish","nativeName":"Gaeilge","dir":"ltr"}, //360 Crowdin to come
+      {"code":"it","name":"Italian","nativeName":"Italiano","dir":"ltr"}, //360 Crowdin 96%
+      {"code":"ja-JP","name":"Japanese","nativeName":"日本語","dir":"ltr"}, //360 Crowdin 96%
+      {"code":"km-KH","name":"Khmer","nativeName":"ភាសាខ្មែរ","dir":"ltr"}, //345 Crowdin 93%
+      {"code":"ko-KR","name":"Korean","nativeName":"한국어","dir":"ltr"}, //360 
       {"code":"lv","name":"Latvian","nativeName":"Latviešu","dir":"ltr"},
       {"code":"lt","name":"Lithuanian","nativeName":"lietuvių kalba","dir":"ltr"},
       {"code":"mk","name":"Macedonian","nativeName":"Македонски","dir":"ltr"}, //Crowdin 100%
