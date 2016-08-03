@@ -29,7 +29,7 @@
       {"code":"nl","name":"Dutch","nativeName":"Nederlands","dir":"ltr"}, //360 + Crowdin 100%
       {"code":"nl-BE","name":"Dutch (Belgium)","nativeName":"Flemish","dir":"ltr"}, //360 + Crowdin 99%
       {"code":"en-AU","name":"English (Australian)","nativeName":"English (Australian)","dir":"ltr"}, //360
-      {"code":"en-CA","name":"English (Canadian)","nativeName":"English (Canadian)","dir":"ltr"}, //336
+      {"code":"en-CA","name":"English (Canadian)","nativeName":"English (Canadian)","dir":"ltr"}, //336 SOON
       {"code":"en-GB","name":"English (British)","nativeName":"English (British)","dir":"ltr"},
       {"code":"en-US","name":"English (American)","nativeName":"English (American)","dir":"ltr"}, //360 Crowdin 100%
       {"code":"eo","name":"Esperanto","nativeName":"Esperanto","dir":"ltr"}, // Crowdin 95%
@@ -51,13 +51,13 @@
       {"code":"ja-JP","name":"Japanese","nativeName":"日本語","dir":"ltr"}, //360 Crowdin 96%
       {"code":"km-KH","name":"Khmer","nativeName":"ភាសាខ្មែរ","dir":"ltr"}, //345 Crowdin 93%
       {"code":"ko-KR","name":"Korean","nativeName":"한국어","dir":"ltr"}, //360 
-      {"code":"lv","name":"Latvian","nativeName":"Latviešu","dir":"ltr"},
-      {"code":"lt","name":"Lithuanian","nativeName":"lietuvių kalba","dir":"ltr"},
-      {"code":"mk","name":"Macedonian","nativeName":"Македонски","dir":"ltr"}, //Crowdin 100%
-      {"code":"ms","name":"Malay","nativeName":"bahasa Melayu, بهاس ملايو‎","dir":"ltr"},
-    //Montenegrin
-      {"code":"nb-NO","name":"Norwegian Bokmål","nativeName":"Norsk bokmål","dir":"ltr"}, //Crowdin 100%
-      {"code":"nn-NO","name":"Norwegian Nynorsk","nativeName":"Norsk nynorsk","dir":"ltr"},
+      {"code":"lv","name":"Latvian","nativeName":"Latviešu","dir":"ltr"}, //343 Crowdin 99%
+      {"code":"lt","name":"Lithuanian","nativeName":"lietuvių kalba","dir":"ltr"}, // Crowdin 94%
+      {"code":"mk","name":"Macedonian","nativeName":"Македонски","dir":"ltr"}, //360 Crowdin 100%
+      {"code":"ms-MY","name":"Malay","nativeName":"bahasa Melayu, بهاس ملايو‎","dir":"ltr"}, //341
+      {"code":"spr-ME","name":"Montenegrin","nativeName":"Montenegrin","dir":"ltr"}, //331
+      {"code":"nb-NO","name":"Norwegian Bokmål","nativeName":"Norsk bokmål","dir":"ltr"}, //351 Crowdin 100%
+      {"code":"nn-NO","name":"Norwegian Nynorsk","nativeName":"Norsk nynorsk","dir":"ltr"}, //342 Crowdin 79%
       {"code":"oc","name":"Occitan","nativeName":"Occitan lengadocian","dir":"ltr"},
       {"code":"fa","name":"Persian","nativeName":"فارسی","dir":"rtl"},
       {"code":"pl","name":"Polish","nativeName":"polski","dir":"ltr"},
