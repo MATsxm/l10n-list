@@ -75,12 +75,11 @@
       {"code":"sw-KE","name":"Swahili","nativeName":"Kiswahili","dir":"ltr"}, //361
       {"code":"sv-SE","name":"Swedish","nativeName":"svenska","dir":"ltr"}, //362 Crowdin 100%
       {"code":"ta-IN","name":"Tamil","nativeName":"தமிழ்","dir":"ltr"}, //362 Crowdin 71%
-      {"code":"th","name":"Thai","nativeName":"ไทย","dir":"ltr"},     
-      {"code":"tr","name":"Turkish","nativeName":"Türkçe","dir":"ltr"},
+      {"code":"th","name":"Thai","nativeName":"ไทย","dir":"ltr"}, //362    
+      {"code":"tr","name":"Turkish","nativeName":"Türkçe","dir":"ltr"}, //351
     //Turkmen
-      {"code":"uk","name":"Ukrainian","nativeName":"Українська","dir":"ltr"},
-    //Uyghur
-      {"code":"vi","name":"Vietnamese","nativeName":"Tiếng Việt","dir":"ltr"},
-      {"code":"cy","name":"Welsh","nativeName":"Cymraeg","dir":"ltr"},
+      {"code":"uk-UA","name":"Ukrainian","nativeName":"Українська","dir":"ltr"}, //351 Crowdin 4%
+      {"code":"vi-VN","name":"Vietnamese","nativeName":"Tiếng Việt","dir":"ltr"}, //321
+      {"code":"cy-GB","name":"Welsh","nativeName":"Cymraeg","dir":"ltr"}, //330 Crowdin 59%
 
     ]
