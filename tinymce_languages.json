@@ -26,45 +26,35 @@
       {"code":"el","name":"Greek, Modern","nativeName":"Ελληνικά","dir":"ltr"},
       {"code":"he","name":"Hebrew (modern)","nativeName":"עברית","dir":"rtl"},
       
-      
-      {"code":"hu","name":"Hungarian","nativeName":"Magyar","dir":"ltr"}, //360 Crowdin 100%
-      {"code":"is","name":"Icelandic","nativeName":"íslenska","dir":"ltr"}, //Crowdin 23%
-      {"code":"id","name":"Indonesian","nativeName":"Bahasa Indonesia","dir":"ltr"}, //330 Crowdin 100%
-      {"code":"ga-IE","name":"Irish","nativeName":"Gaeilge","dir":"ltr"}, //360 Crowdin to come
-      {"code":"it","name":"Italian","nativeName":"Italiano","dir":"ltr"}, //360 Crowdin 96%
-      {"code":"ja-JP","name":"Japanese","nativeName":"日本語","dir":"ltr"}, //360 Crowdin 96%
-      {"code":"km-KH","name":"Khmer","nativeName":"ភាសាខ្មែរ","dir":"ltr"}, //345 Crowdin 93%
-      {"code":"ko-KR","name":"Korean","nativeName":"한국어","dir":"ltr"}, //360 
-      {"code":"lv","name":"Latvian","nativeName":"Latviešu","dir":"ltr"}, //343 Crowdin 99%
-      {"code":"lt","name":"Lithuanian","nativeName":"lietuvių kalba","dir":"ltr"}, // Crowdin 94%
-      {"code":"mk","name":"Macedonian","nativeName":"Македонски","dir":"ltr"}, //360 Crowdin 100%
-      {"code":"ms-MY","name":"Malay","nativeName":"bahasa Melayu, بهاس ملايو‎","dir":"ltr"}, //341
-      {"code":"spr-ME","name":"Montenegrin","nativeName":"Montenegrin","dir":"ltr"}, //331
-      {"code":"nb-NO","name":"Norwegian Bokmål","nativeName":"Norsk bokmål","dir":"ltr"}, //351 Crowdin 100%
-      {"code":"nn-NO","name":"Norwegian Nynorsk","nativeName":"Norsk nynorsk","dir":"ltr"}, //342 Crowdin 79%
-      {"code":"oc","name":"Occitan","nativeName":"Occitan lengadocian","dir":"ltr"},
-      {"code":"fa","name":"Persian","nativeName":"فارسی","dir":"rtl"},
-      {"code":"pl","name":"Polish","nativeName":"polski","dir":"ltr"},
-      {"code":"pt","name":"Portuguese","nativeName":"Português","dir":"ltr"}, //Crowdin 100%
-      {"code":"pt-BR","name":"Portuguese (Brazilian)","nativeName":"Português do Brasil","dir":"ltr"}, //Crowdin 100%
-      {"code":"ro","name":"Romanian","nativeName":"română","dir":"ltr"},
-      {"code":"ru","name":"Russian","nativeName":"Русский","dir":"ltr"}, //Crowdin 100%
-      {"code":"sr","name":"Serbian","nativeName":"српски","dir":"ltr"},
-      {"code":"sr-Latn","name":"Serbian","nativeName":"Srpski","dir":"ltr"},
-      {"code":"si","name":"Sinhala","nativeName":"සිංහල","dir":"ltr"},
-      {"code":"sk","name":"Slovak","nativeName":"slovenčina","dir":"ltr"}, //Crowdin 100%
-      {"code":"sl","name":"Slovenian","nativeName":"slovensko","dir":"ltr"}, //Crowdin 100%
-      {"code":"es","name":"Spanish","nativeName":"Español","dir":"ltr"},
-      {"code":"es-CO","name":"Spanish (Colombia)","nativeName":"Español de Colombia","dir":"ltr"}, //Crowdin 100%
-      {"code":"sw","name":"Swahili","nativeName":"Kiswahili","dir":"ltr"},
-      {"code":"sv-SE","name":"Swedish","nativeName":"svenska","dir":"ltr"}, //Crowdin 100%
-      {"code":"ta","name":"Tamil","nativeName":"தமிழ்","dir":"ltr"},
-      {"code":"th","name":"Thai","nativeName":"ไทย","dir":"ltr"},     
-      {"code":"tr","name":"Turkish","nativeName":"Türkçe","dir":"ltr"},
-    //Turkmen
-      {"code":"uk","name":"Ukrainian","nativeName":"Українська","dir":"ltr"},
-    //Uyghur
-      {"code":"vi","name":"Vietnamese","nativeName":"Tiếng Việt","dir":"ltr"},
-      {"code":"cy","name":"Welsh","nativeName":"Cymraeg","dir":"ltr"},
-
-    ]
+      {"code":"hu","name":"Hungarian","nativeName":"Magyar","dir":"ltr"},
+      {"code":"id","name":"Indonesian","nativeName":"Bahasa Indonesia","dir":"ltr"},
+      {"code":"ga-IE","name":"Irish","nativeName":"Gaeilge","dir":"ltr"},
+      {"code":"it","name":"Italian","nativeName":"Italiano","dir":"ltr"},
+      {"code":"ja-JP","name":"Japanese","nativeName":"日本語","dir":"ltr"},
+      {"code":"km-KH","name":"Khmer","nativeName":"ភាសាខ្មែរ","dir":"ltr"},
+      {"code":"ko-KR","name":"Korean","nativeName":"한국어","dir":"ltr"}, 
+      {"code":"lv","name":"Latvian","nativeName":"Latviešu","dir":"ltr"}, 
+      {"code":"lt","name":"Lithuanian","nativeName":"lietuvių kalba","dir":"ltr"}, 
+      {"code":"mk","name":"Macedonian","nativeName":"Македонски","dir":"ltr"}, 
+      {"code":"ms-MY","name":"Malay","nativeName":"bahasa Melayu, بهاس ملايو‎","dir":"ltr"}, 
+      {"code":"nb-NO","name":"Norwegian Bokmål","nativeName":"Norsk bokmål","dir":"ltr"}, 
+      {"code":"nn-NO","name":"Norwegian Nynorsk","nativeName":"Norsk nynorsk","dir":"ltr"}, 
+      {"code":"fa","name":"Persian","nativeName":"فارسی","dir":"rtl"}, 
+      {"code":"pl","name":"Polish","nativeName":"polski","dir":"ltr"}, 
+      {"code":"pt","name":"Portuguese","nativeName":"Português","dir":"ltr"}, 
+      {"code":"pt-BR","name":"Portuguese (Brazilian)","nativeName":"Português do Brasil","dir":"ltr"}, 
+      {"code":"ro","name":"Romanian","nativeName":"română","dir":"ltr"}, 
+      {"code":"ru","name":"Russian","nativeName":"Русский","dir":"ltr"}, 
+      {"code":"sr-RS","name":"Serbian","nativeName":"српски","dir":"ltr"}, 
+      {"code":"sr-YU","name":"Serbian","nativeName":"Srpski","dir":"ltr"}, 
+      {"code":"sk","name":"Slovak","nativeName":"slovenčina","dir":"ltr"}, 
+      {"code":"sl-SI","name":"Slovenian","nativeName":"slovensko","dir":"ltr"}, 
+      {"code":"es","name":"Spanish","nativeName":"Español","dir":"ltr"}, 
+      {"code":"es-CO","name":"Spanish (Colombia)","nativeName":"Español de Colombia","dir":"ltr"}, 
+      {"code":"sw-KE","name":"Swahili","nativeName":"Kiswahili","dir":"ltr"}, 
+      {"code":"sv-SE","name":"Swedish","nativeName":"svenska","dir":"ltr"}, 
+      {"code":"ta-IN","name":"Tamil","nativeName":"தமிழ்","dir":"ltr"}, 
+      {"code":"th","name":"Thai","nativeName":"ไทย","dir":"ltr"}, 
+      {"code":"tr","name":"Turkish","nativeName":"Türkçe","dir":"ltr"}, 
+      {"code":"uk-UA","name":"Ukrainian","nativeName":"Українська","dir":"ltr"}, 
+]
