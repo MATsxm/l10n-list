@@ -80,6 +80,6 @@
     //Turkmen
       {"code":"uk-UA","name":"Ukrainian","nativeName":"Українська","dir":"ltr"}, //351 Crowdin 4%
       {"code":"vi-VN","name":"Vietnamese","nativeName":"Tiếng Việt","dir":"ltr"}, //321
-      {"code":"cy-GB","name":"Welsh","nativeName":"Cymraeg","dir":"ltr"}, //330 Crowdin 59%
+      {"code":"cy-GB","name":"Welsh","nativeName":"Cymraeg","dir":"ltr"} //330 Crowdin 59%
 
     ]
