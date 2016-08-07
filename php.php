@@ -4,10 +4,16 @@
  * classification alphabetically in English
 */
 
+[
+    {"code":"af-ZA",    "name":"Afrikaans (South Africa)",  "nativeName":"Afrikaans (Suid-Afrika)",   "dir":"ltr"},
+    {"code":"sq-AL",    "name":"Albanian (Albania)",        "nativeName":"Shqip (Shqipëria)",         "dir":"ltr"},
+    {"code":"gsw-FR",   "name":"Alsatian (France)",         "nativeName":"Elsässisch (Frànkrisch)",   "dir":"ltr"},
+      
+]
+
+
 return [
-  
-  'af-ZA'         =>  array( 'English'  => 'Afrikaans (South Africa)',                          'native' => 'Afrikaans (Suid-Afrika)'),
-  'sq-AL'         =>  array( 'English'  => 'Albanian (Albania)',                                'native' => 'Shqip (Shqipëria)'),
+
   'gsw-FR'        =>  array( 'English'  => 'Alsatian (France)',                                 'native' => 'Elsässisch (Frànkrisch)'),
   'am-ET'         =>  array( 'English'  => 'Amharic (Ethiopia)',                                'native' => 'አማርኛ (ኢትዮጵያ)'),
   'ar'            =>  array( 'English'  => 'Arabic',                                            'native' => 'عربي'),
