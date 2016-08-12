@@ -26,10 +26,20 @@ abstract class TinymceHelper
 		return array(
 			0 => array(
 				'code'       => 'af-ZA',
-				'name'       => 'Afrikaans',
-				'nativeName' => 'Afrikaans',
+				'name'       => 'Afrikaans (South Africa)',
+				'nativeName' => 'Afrikaans (Suid-Afrika)',
 				'dir'        => 'ltr',
 			),
+			1 => array(
+				'code'       => 'sq-AL',
+				'name'       => 'Albanian (Albania)',
+				'nativeName' => 'Shqip (Shqipëria)',
+				'dir'        => 'ltr',
+			),
+			
+			
+			
+			
 			1 => array(
 				'code'       => 'ar',
 				'name'       => 'Arabic',
