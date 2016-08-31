@@ -36,16 +36,23 @@ abstract class TinymceHelper
 				'nativeName' => 'Shqip (Shqipëria)',
 				'dir'        => 'ltr',
 			),
-			
-			
-			
-			
-			1 => array(
+			2 => array(
+				'code'       => 'gsw-FR',
+				'name'       => 'Alsatian (France)',
+				'nativeName' => 'Elsässisch (Frànkrisch)',
+				'dir'        => ltr',
+			),
+			3 => array(
 				'code'       => 'ar',
 				'name'       => 'Arabic',
 				'nativeName' => 'عربي',
 				'dir'        => 'rtl',
 			),
+			
+			
+			
+			
+			
 			2 => array(
 				'code'       => 'hy-AM',
 				'name'       => 'Armenian',
