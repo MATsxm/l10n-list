@@ -39,13 +39,25 @@ abstract class TinymceHelper
 			2 => array(
 				'code'       => 'gsw-FR',
 				'name'       => 'Alsatian (France)',
-				'nativeName' => 'Elsässisch (Frànkrisch)',
+				'nativeName' => 'Elsässisch (Frànkrisch),
 				'dir'        => ltr',
 			),
 			3 => array(
+				'code'       => 'am-ET',
+				'name'       => 'Amharic (Ethiopia)',
+				'nativeName' => 'አማርኛ (ኢትዮጵያ)',
+				'dir'        => ltr',
+			),
+			4 => array(
 				'code'       => 'ar',
 				'name'       => 'Arabic',
 				'nativeName' => 'عربي',
+				'dir'        => 'rtl',
+			),
+			5 => array(
+				'code'       => 'ar-DZ',
+				'name'       => 'Arabic (Algeria)',
+				'nativeName' => 'العربية (الجزائر)',
 				'dir'        => 'rtl',
 			),
 			
