@@ -95,7 +95,19 @@ abstract class TinymceHelper
 				'name'       => 'Arabic (Lebanon)',
 				'nativeName' => 'العربية (لبنان)',
 				'dir'        => 'rtl',
-			),	
+			),
+			12 => array(
+				'code'       => 'ar-LY',
+				'name'       => 'Arabic (Libya)',
+				'nativeName' => 'العربية (ليبيا)',
+				'dir'        => 'rtl',
+			),
+			13 => array(
+				'code'       => 'ar-MA',
+				'name'       => 'Arabic (Morocco)',
+				'nativeName' => ' العربية (المملكة المغربي)',
+				'dir'        => 'rtl',
+			),
 			
 			
 			
