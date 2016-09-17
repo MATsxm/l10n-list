@@ -120,6 +120,12 @@ abstract class TinymceHelper
 				'nativeName' => ' العربية (قطر)ي)',
 				'dir'        => 'rtl',
 			),
+			16 => array(
+				'code'       => 'ar-SA',
+				'name'       => 'Arabic (Saudi Arabia)',
+				'nativeName' => ' العربية (المملكة العربية السعودية)'),
+				'dir'        => 'rtl',
+			),
 			
 			
 			
