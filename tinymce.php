@@ -126,6 +126,18 @@ abstract class TinymceHelper
 				'nativeName' => ' العربية (المملكة العربية السعودية)'),
 				'dir'        => 'rtl',
 			),
+			17 => array(
+				'code'       => 'ar-SY',
+				'name'       => 'Arabic (Syria)',
+				'nativeName' => ' العربية (سوريا)'),
+				'dir'        => 'rtl',
+			),
+			18 => array(
+				'code'       => 'ar-TN',
+				'name'       => 'Arabic (Tunisia)',
+				'nativeName' => ' العربية (تونس)'),
+				'dir'        => 'rtl',
+			),
 			
 			
 			
