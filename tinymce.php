@@ -40,13 +40,13 @@ abstract class TinymceHelper
 				'code'       => 'gsw-FR',
 				'name'       => 'Alsatian (France)',
 				'nativeName' => 'Elsässisch (Frànkrisch),
-				'dir'        => ltr',
+				'dir'        => 'ltr',
 			),
 			3 => array(
 				'code'       => 'am-ET',
 				'name'       => 'Amharic (Ethiopia)',
 				'nativeName' => 'አማርኛ (ኢትዮጵያ)',
-				'dir'        => ltr',
+				'dir'        => 'ltr',
 			),
 			4 => array(
 				'code'       => 'ar',
@@ -150,17 +150,20 @@ abstract class TinymceHelper
 				'nativeName' => 'العربية (اليمن)'),
 				'dir'        => 'rtl',
 			),
-			
-			
-			
-			
-			
-			2 => array(
+			21 => array(
 				'code'       => 'hy-AM',
-				'name'       => 'Armenian',
+				'name'       => 'Armenian (Armenia)',
 				'nativeName' => 'Հայերեն',
 				'dir'        => 'ltr',
 			),
+			
+			
+			
+			
+			
+			
+			
+
 			3 => array(
 				'code'       => 'eu-ES',
 				'name'       => 'Basque',
