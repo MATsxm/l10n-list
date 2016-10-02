@@ -156,6 +156,12 @@ abstract class TinymceHelper
 				'nativeName' => 'Հայերեն',
 				'dir'        => 'ltr',
 			),
+			22 => array(
+				'code'       => 'as',
+				'name'       => 'Assamese (India)',
+				'nativeName' => 'অসমীয়া',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
