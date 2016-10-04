@@ -162,6 +162,12 @@ abstract class TinymceHelper
 				'nativeName' => 'অসমীয়া',
 				'dir'        => 'ltr',
 			),
+			23 => array(
+				'code'       => 'az-Cyrl-AZ',
+				'name'       => 'Azerbaijani (Cyrillic, Azerbaijan)',
+				'nativeName' => 'Азәрбајҹан (Азәрбајҹан)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
