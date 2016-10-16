@@ -168,6 +168,12 @@ abstract class TinymceHelper
 				'nativeName' => 'Азәрбајҹан (Азәрбајҹан)',
 				'dir'        => 'ltr',
 			),
+			24 => array(
+				'code'       => 'az-Latn-AZ',
+				'name'       => 'Azerbaijani (Latin, Azerbaijan)',
+				'nativeName' => 'Azərbaycan dili (Azərbaycan)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
