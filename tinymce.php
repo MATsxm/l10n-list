@@ -174,6 +174,18 @@ abstract class TinymceHelper
 				'nativeName' => 'Azərbaycan dili (Azərbaycan)',
 				'dir'        => 'ltr',
 			),
+			25 => array(
+				'code'       => 'ba-RU',
+				'name'       => 'Bashkir (Russia)',
+				'nativeName' => 'Башҡорт (Рәсәй)',
+				'dir'        => 'ltr',
+			),
+			26 => array(
+				'code'       => 'ba-RU',
+				'name'       => 'Basque (Basque)',
+				'nativeName' => 'euskara (euskara)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
