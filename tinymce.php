@@ -39,7 +39,7 @@ abstract class TinymceHelper
 			2 => array(
 				'code'       => 'gsw-FR',
 				'name'       => 'Alsatian (France)',
-				'nativeName' => 'Elsässisch (Frànkrisch),
+				'nativeName' => 'Elsässisch (Frànkrisch)',
 				'dir'        => 'ltr',
 			),
 			3 => array(
@@ -184,6 +184,12 @@ abstract class TinymceHelper
 				'code'       => 'ba-RU',
 				'name'       => 'Basque (Basque)',
 				'nativeName' => 'euskara (euskara)',
+				'dir'        => 'ltr',
+			),
+			27 => array(
+				'code'       => 'be-BY',
+				'name'       => 'Belarusian (Belarus)',
+				'nativeName' => 'Беларуская (Беларусь)',
 				'dir'        => 'ltr',
 			),
 			
