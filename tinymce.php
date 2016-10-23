@@ -181,7 +181,7 @@ abstract class TinymceHelper
 				'dir'        => 'ltr',
 			),
 			26 => array(
-				'code'       => 'ba-RU',
+				'code'       => 'eu-ES',
 				'name'       => 'Basque (Basque)',
 				'nativeName' => 'euskara (euskara)',
 				'dir'        => 'ltr',
@@ -192,7 +192,18 @@ abstract class TinymceHelper
 				'nativeName' => 'Беларуская (Беларусь)',
 				'dir'        => 'ltr',
 			),
-			
+			28 => array(
+				'code'       => 'bn-BD',
+				'name'       => 'Bengali (Bangladesh)',
+				'nativeName' => 'বাংলা (বাংলাদেশ)',
+				'dir'        => 'ltr',
+			),
+			29 => array(
+				'code'       => 'bn-IN',
+				'name'       => 'Bengali (India)',
+				'nativeName' => 'বাংলা (ভারত)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
@@ -200,18 +211,7 @@ abstract class TinymceHelper
 			
 			
 
-			3 => array(
-				'code'       => 'eu-ES',
-				'name'       => 'Basque',
-				'nativeName' => 'euskara',
-				'dir'        => 'ltr',
-			),
-			4 => array(
-				'code'       => 'bn-BD',
-				'name'       => 'Bengali (Bangladesh)',
-				'nativeName' => 'বাংলা',
-				'dir'        => 'ltr',
-			),
+
 			5 => array(
 				'code'       =>  'bs-BA',
 				'name'       =>  'Bosnian',
