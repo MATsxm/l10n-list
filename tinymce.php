@@ -204,6 +204,12 @@ abstract class TinymceHelper
 				'nativeName' => 'বাংলা (ভারত)',
 				'dir'        => 'ltr',
 			),
+			30 => array(
+				'code'       => 'bs-Cyrl-BA',
+				'name'       => 'Bosnian (Cyrillic, Bosnia and Herzegovina)',
+				'nativeName' => 'босански (Босна и Херцеговина)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
