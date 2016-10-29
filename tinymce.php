@@ -210,6 +210,12 @@ abstract class TinymceHelper
 				'nativeName' => 'босански (Босна и Херцеговина)',
 				'dir'        => 'ltr',
 			),
+			31 => array(
+				'code'       => 'bs-Latn-BA',
+				'name'       => 'Bosnian (Latin, Bosnia and Herzegovina)',
+				'nativeName' => 'bosanski (Bosna i Hercegovina)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
