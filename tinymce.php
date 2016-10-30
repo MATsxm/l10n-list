@@ -216,22 +216,23 @@ abstract class TinymceHelper
 				'nativeName' => 'bosanski (Bosna i Hercegovina)',
 				'dir'        => 'ltr',
 			),
-			
-			
-			
-			
-			
-			
-
-
-			5 => array(
-				'code'       =>  'bs-BA',
-				'name'       =>  'Bosnian',
-				'nativeName' =>  'bosanski',
-				'dir'        =>  'ltr',
+			32 => array(
+				'code'       => 'br-FR',
+				'name'       => 'Breton (France)',
+				'nativeName' => 'brezhoneg (Frañs)',
+				'dir'        => 'ltr',
 			),
+			
+			
+			
+			
+			
+			
+
+
+
 			6 => array(
-				'code'       =>  'bg',
+				'code'       =>  'br-FR',
 				'name'       =>  'Bulgarian',
 				'nativeName' =>  'български',
 				'dir'        =>  'ltr',
