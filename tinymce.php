@@ -222,6 +222,12 @@ abstract class TinymceHelper
 				'nativeName' => 'brezhoneg (Frañs)',
 				'dir'        => 'ltr',
 			),
+			33 => array(
+				'code'       => 'bg-BG',
+				'name'       => 'Bulgarian (Bulgaria)',
+				'nativeName' => 'български (България)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
