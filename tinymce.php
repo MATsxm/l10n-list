@@ -228,6 +228,12 @@ abstract class TinymceHelper
 				'nativeName' => 'български (България)',
 				'dir'        => 'ltr',
 			),
+			34 => array(
+				'code'       => 'my-MM',
+				'name'       => 'Burmese (Myanmar)',
+				'nativeName' => 'ဗမာ (မြန်မာ)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
