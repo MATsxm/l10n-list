@@ -234,21 +234,22 @@ abstract class TinymceHelper
 				'nativeName' => 'ဗမာ (မြန်မာ)',
 				'dir'        => 'ltr',
 			),
-			
-			
-			
-			
-			
-			
-
-
-
-			6 => array(
-				'code'       =>  'br-FR',
-				'name'       =>  'Bulgarian',
-				'nativeName' =>  'български',
-				'dir'        =>  'ltr',
+			35 => array(
+				'code'       => 'ca-ES',
+				'name'       => 'Catalan (Catalan)',
+				'nativeName' => 'Català (Català)',
+				'dir'        => 'ltr',
 			),
+			
+			
+			
+			
+			
+			
+
+
+
+			
 			7 => array(
 				'code'       =>  'ca-ES',
 				'name'       =>  'Catalan',
