@@ -240,6 +240,12 @@ abstract class TinymceHelper
 				'nativeName' => 'Català (Català)',
 				'dir'        => 'ltr',
 			),
+			36 => array(
+				'code'       => 'tzm-Latn-DZ',
+				'name'       => 'Central Atlas Tamazight (Latin, Algeria)',
+				'nativeName' => 'Tamazight (Djazaïr)',
+				'dir'        => 'ltr',
+			),
 			
 			
 			
