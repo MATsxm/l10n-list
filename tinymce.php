@@ -246,6 +246,13 @@ abstract class TinymceHelper
 				'nativeName' => 'Tamazight (Djazaïr)',
 				'dir'        => 'ltr',
 			),
+			37 => array(
+				'code'       => 'tzm-Tfng-MA',
+				'name'       => 'Central Atlas Tamazight (Tifinagh, Morocco)',
+				'nativeName' => 'ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ))',
+				'dir'        => 'ltr',
+			),
+			
 			
 			
 			
