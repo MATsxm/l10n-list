@@ -252,10 +252,14 @@ abstract class TinymceHelper
 				'nativeName' => 'ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ))',
 				'dir'        => 'ltr',
 			),
+			38 => array(
+				'code'       => 'ku-Arab-IQ',
+				'name'       => 'Central Kurdish (Iraq)',
+				'nativeName' => 'وردیی ناوەڕاست (کوردستان)'),
+				'dir'        => 'rtl',
+			),
 			
-			
-			
-			
+					
 			
 			
 			
