@@ -249,7 +249,7 @@ abstract class TinymceHelper
 			37 => array(
 				'code'       => 'tzm-Tfng-MA',
 				'name'       => 'Central Atlas Tamazight (Tifinagh, Morocco)',
-				'nativeName' => 'ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ))',
+				'nativeName' => 'ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)',
 				'dir'        => 'ltr',
 			),
 			38 => array(
@@ -257,6 +257,12 @@ abstract class TinymceHelper
 				'name'       => 'Central Kurdish (Iraq)',
 				'nativeName' => 'وردیی ناوەڕاست (کوردستان)'),
 				'dir'        => 'rtl',
+			),
+			39 => array(
+				'code'       => 'chr-Cher-US',
+				'name'       => 'Cherokee (Cherokee)',
+				'nativeName' => 'ᏣᎳᎩ (ᏣᎳᎩ)',
+				'dir'        => 'ltr',
 			),
 			
 					
