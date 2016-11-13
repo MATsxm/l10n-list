@@ -264,6 +264,12 @@ abstract class TinymceHelper
 				'nativeName' => 'ᏣᎳᎩ (ᏣᎳᎩ)',
 				'dir'        => 'ltr',
 			),
+			40 => array(
+				'code'       => 'cs',
+				'name'       => 'Czech',
+				'nativeName' => 'Čeština',
+				'dir'        => 'ltr',
+			),
 			
 					
 			
