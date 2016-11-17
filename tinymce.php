@@ -270,6 +270,12 @@ abstract class TinymceHelper
 				'nativeName' => 'Čeština',
 				'dir'        => 'ltr',
 			),
+			41 => array(
+				'code'       => 'cy',
+				'name'       => 'Welsh',
+				'nativeName' => 'Cymraeg',
+				'dir'        => 'ltr',
+			),
 			
 					
 			
@@ -278,13 +284,7 @@ abstract class TinymceHelper
 
 
 
-			
-			7 => array(
-				'code'       =>  'ca-ES',
-				'name'       =>  'Catalan',
-				'nativeName' =>  'Català',
-				'dir'        =>  'ltr',
-			),
+
 			8 => array(
 				'code'       =>  'zh-CN',
 				'name'       =>  'Chinese (Simplified)',
