@@ -10,7 +10,6 @@ defined('_JEXEC') or die;
 /**
  * TinyMCE Helper Class
  *
- * @since  3.7
  */
 abstract class TinymceHelper
 {
@@ -19,7 +18,6 @@ abstract class TinymceHelper
 	 *
 	 * @return  array  A list of all the languages
 	 *
-	 * @since   3.7
 	 */
 	public static function getAllLanguages()
 	{
@@ -265,11 +263,34 @@ abstract class TinymceHelper
 				'dir'        => 'ltr',
 			),
 			40 => array(
+				'code'       =>  'zh-CN',
+				'name'       =>  'Chinese (Simplified)',
+				'nativeName' =>  '中文 (简体)',
+				'dir'        =>  'ltr',
+			),
+			41 => array(
+				'code'       =>  'zh-TW',
+				'name'       =>  'Chinese (Traditional)',
+				'nativeName' =>  '正體中文 (繁體)',
+				'dir'        =>  'ltr',
+			),
+			42 => array(
+				'code'       =>  'hr',
+				'name'       =>  'Croatian',
+				'nativeName' =>  'Hrvatski',
+				'dir'        =>  'ltr'
+			),
+			43 => array(
 				'code'       => 'cs',
 				'name'       => 'Czech',
 				'nativeName' => 'Čeština',
 				'dir'        => 'ltr',
 			),
+		
+		
+		
+		
+		
 			41 => array(
 				'code'       => 'cy',
 				'name'       => 'Welsh',
@@ -284,31 +305,6 @@ abstract class TinymceHelper
 
 
 
-
-			8 => array(
-				'code'       =>  'zh-CN',
-				'name'       =>  'Chinese (Simplified)',
-				'nativeName' =>  '中文 (简体)',
-				'dir'        =>  'ltr',
-			),
-			9 => array(
-				'code'       =>  'zh-TW',
-				'name'       =>  'Chinese (Traditional)',
-				'nativeName' =>  '正體中文 (繁體)',
-				'dir'        =>  'ltr',
-			),
-			10 => array(
-				'code'       =>  'hr',
-				'name'       =>  'Croatian',
-				'nativeName' =>  'Hrvatski',
-				'dir'        =>  'ltr'
-			),
-			11 => array(
-				'code'       =>  'cs',
-				'name'       =>  'Czech',
-				'nativeName' =>  'Čeština',
-				'dir'        =>  'ltr'
-			),
 			12 => array(
 				'code'       =>  'da',
 				'name'       =>  'Danish',
