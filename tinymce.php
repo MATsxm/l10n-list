@@ -286,6 +286,18 @@ abstract class TinymceHelper
 				'nativeName' => 'Čeština',
 				'dir'        => 'ltr',
 			),
+			44 => array(
+				'code'       =>  'da',
+				'name'       =>  'Danish',
+				'nativeName' =>  'dansk',
+				'dir'        =>  'ltr',
+			),
+			45 => array(
+				'code'       =>  'nl',
+				'name'       =>  'Dutch',
+				'nativeName' =>  'Nederlands',
+				'dir'        =>  'ltr',
+			),
 		
 		
 		
