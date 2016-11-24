@@ -310,6 +310,18 @@ abstract class TinymceHelper
 				'nativeName' =>  'Flemish',
 				'dir'        =>  'ltr',
 			),
+			46 => array(
+				'code'       =>  'en-AU',
+				'name'       =>  'English (Australian)',
+				'nativeName' =>  'English (Australian)',
+				'dir'        =>  'ltr',
+			),
+			47 => array(
+				'code'       =>  'en-GB',
+				'name'       =>  'English (British)',
+				'nativeName' =>  'English (British)',
+				'dir'        =>  'ltr',
+			),
 		
 		
 		
@@ -333,12 +345,6 @@ abstract class TinymceHelper
 
 
 
-			14 => array(
-				'code'       =>  'nl-BE',
-				'name'       =>  'Dutch (Belgium)',
-				'nativeName' =>  'Flemish',
-				'dir'        =>  'ltr',
-			),
 			15 => array(
 				'code'       =>  'en-AU',
 				'name'       =>  'English (Australian)',
