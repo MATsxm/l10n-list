@@ -322,6 +322,14 @@ abstract class TinymceHelper
 				'nativeName' =>  'English (British)',
 				'dir'        =>  'ltr',
 			),
+			48 => array(
+				'code'       =>  'en-CA',
+				'name'       =>  'English (Canadian)',
+				'nativeName' =>  'English (Canadian)',
+				'dir'        =>  'ltr',
+			),
+		
+		
 		
 		
 		
@@ -343,20 +351,6 @@ abstract class TinymceHelper
 			
 			
 
-
-
-			15 => array(
-				'code'       =>  'en-AU',
-				'name'       =>  'English (Australian)',
-				'nativeName' =>  'English (Australian)',
-				'dir'        =>  'ltr',
-			),
-			16 => array(
-				'code'       =>  'en-GB',
-				'name'       =>  'English (British)',
-				'nativeName' =>  'English (British)',
-				'dir'        =>  'ltr',
-			),
 			17 => array(
 				'code'       =>  'en-US',
 				'name'       =>  'English (American)',
