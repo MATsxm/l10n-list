@@ -311,23 +311,37 @@ abstract class TinymceHelper
 				'dir'        =>  'ltr',
 			),
 			46 => array(
+				'code'       =>  'en-US',
+				'name'       =>  'English (American)',
+				'nativeName' =>  'English (American)',
+				'dir'        =>  'ltr',
+			),
+			47 => array(
 				'code'       =>  'en-AU',
 				'name'       =>  'English (Australian)',
 				'nativeName' =>  'English (Australian)',
 				'dir'        =>  'ltr',
 			),
-			47 => array(
+			48 => array(
 				'code'       =>  'en-GB',
 				'name'       =>  'English (British)',
 				'nativeName' =>  'English (British)',
 				'dir'        =>  'ltr',
 			),
-			48 => array(
+			49 => array(
 				'code'       =>  'en-CA',
 				'name'       =>  'English (Canadian)',
 				'nativeName' =>  'English (Canadian)',
 				'dir'        =>  'ltr',
 			),
+			50 => array(
+				'code'       =>  'en-NZ',
+				'name'       =>  'English (New Zealand)',
+				'nativeName' =>  'English (New Zealand)',
+				'dir'        =>  'ltr',
+			),
+
+		
 		
 		
 		
@@ -345,18 +359,22 @@ abstract class TinymceHelper
 				'nativeName' => 'Cymraeg',
 				'dir'        => 'ltr',
 			),
-			
-					
-			
-			
-			
-
-			17 => array(
+			42 => array(
 				'code'       =>  'en-US',
 				'name'       =>  'English (American)',
 				'nativeName' =>  'English (American)',
 				'dir'        =>  'ltr',
 			),
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 			18 => array(
 				'code'       =>  'eo',
 				'name'       =>  'Esperanto',
